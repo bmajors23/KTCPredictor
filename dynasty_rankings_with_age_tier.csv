@@ -1,0 +1,51 @@
+Rank,Name,Team,Position,Age,Tier,Trend,Value
+1,Lamar Jackson,BAL,QB1,27.9,Tier 1,3,9999
+2,Josh Allen,BUF,QB2,28.5,Tier 1,1,9998
+3,Justin Jefferson,MIN,WR1,25.4,Tier 1,1,9980
+4,Ja'Marr Chase,CIN,WR2,24.7,Tier 1,2,9972
+5,Jayden Daniels,WAS,QB3,23.9,Tier 2,4,9588
+6,Malik Nabers,NYG,WR3,21.3,Tier 3,1,8270
+7,Bijan Robinson,ATL,RB1,22.8,Tier 3,8,8244
+8,Jalen Hurts,PHI,QB4,26.3,Tier 3,10,8236
+9,Amon-Ra St. Brown,DET,WR4,25.1,Tier 3,0,8082
+10,Joe Burrow,CIN,QB5,27.9,Tier 3,6,8054
+11,Jahmyr Gibbs,DET,RB2,22.7,Tier 4,6,7895
+12,CeeDee Lamb,DAL,WR5,25.6,Tier 4,4,7881
+13,C.J. Stroud,HOU,QB6,23.1,Tier 5,6,7599
+14,Brock Bowers,LVR,TE1,21.9,Tier 5,5,7463
+15,Nico Collins,HOU,WR6,25.7,Tier 5,1,7400
+16,Marvin Harrison Jr.,ARI,WR7,22.3,Tier 6,4,7235
+17,Patrick Mahomes,KCC,QB7,29.2,Tier 6,4,7211
+18,Jordan Love,GBP,QB8,26.0,Tier 6,8,7089
+19,Puka Nacua,LAR,WR8,23.5,Tier 6,6,7081
+20,Saquon Barkley,PHI,RB3,27.8,Tier 6,7,6972
+21,Breece Hall,NYJ,RB4,23.5,Tier 7,1,6756
+22,A.J. Brown,PHI,WR9,27.4,Tier 7,1,6712
+23,Kyler Murray,ARI,QB9,27.3,Tier 7,1,6704
+24,Justin Herbert,LAC,QB10,26.7,Tier 7,12,6693
+25,Garrett Wilson,NYJ,WR10,24.3,Tier 7,4,6616
+26,De'Von Achane,MIA,RB5,23.1,Tier 8,11,6483
+27,Drake London,ATL,WR11,23.3,Tier 8,5,6477
+28,Brian Thomas Jr.,JAC,WR12,22.1,Tier 8,3,6408
+29,2025 Early 1st,FA,PICK,N/A,Tier 8,6,6360
+30,Brock Purdy,SFO,QB11,24.9,Tier 9,2,6195
+31,Kyren Williams,LAR,RB6,24.2,Tier 9,1,6174
+32,Drake Maye,NEP,QB12,22.2,Tier 9,10,6154
+33,Caleb Williams,CHI,QB13,23.0,Tier 9,22,6118
+34,Trey McBride,ARI,TE2,25.0,Tier 10,1,5916
+35,Kenneth Walker III,SEA,RB7,24.1,Tier 10,3,5911
+36,Jonathan Taylor,IND,RB8,25.8,Tier 10,5,5829
+37,Christian McCaffrey,SFO,RB9,28.4,Tier 10,13,5794
+38,Bo Nix,DEN,QB14,24.7,Tier 10,44,5716
+39,2026 Early 1st,FA,PICK,N/A,Tier 10,5,5694
+40,George Pickens,PIT,WR13,23.7,Tier 10,40,5673
+41,Rashee Rice,KCC,WR14,24.6,Tier 11,2,5453
+42,Jaxon Smith-Njigba,SEA,WR15,22.8,Tier 11,13,5432
+43,Zay Flowers,BAL,WR16,24.2,Tier 11,4,5428
+44,DK Metcalf,SEA,WR17,26.9,Tier 11,11,5420
+45,2025 Mid 1st,FA,PICK,N/A,Tier 12,0,5293
+46,Baker Mayfield,TBB,QB15,29.6,Tier 12,2,5278
+47,DeVonta Smith,PHI,WR18,26.0,Tier 12,9,5272
+48,Derrick Henry,BAL,RB10,30.9,Tier 12,9,5264
+49,James Cook,BUF,RB11,25.2,Tier 12,3,5244
+50,Jayden Reed,GBP,WR19,24.6,Tier 12,19,5227
